@@ -1,0 +1,7 @@
+C:\Users\gupta\azure-204\bin\Release\net8.0\publish\AzureTestApp.exe
+C:\Users\gupta\azure-204\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\gupta\azure-204\bin\Release\net8.0\publish\appsettings.json
+C:\Users\gupta\azure-204\bin\Release\net8.0\publish\AzureTestApp.dll
+C:\Users\gupta\azure-204\bin\Release\net8.0\publish\AzureTestApp.deps.json
+C:\Users\gupta\azure-204\bin\Release\net8.0\publish\AzureTestApp.runtimeconfig.json
+C:\Users\gupta\azure-204\bin\Release\net8.0\publish\AzureTestApp.pdb

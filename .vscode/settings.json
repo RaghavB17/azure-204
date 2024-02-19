@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/6fedc392-21ff-4a99-b839-a1f41596a838/resourceGroups/new-resource/providers/Microsoft.Web/sites/raghavtestapp"
+}
